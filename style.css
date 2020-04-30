@@ -1,0 +1,29 @@
+.product {
+	width: 400px;
+	margin: 100px auto;
+}
+
+.data {
+	width: 1000px;
+	margin: 50px auto;
+}
+
+.data  table {
+	width: 100%;
+
+}
+
+.data  table th{
+	background-color: #000;
+	color: #FFF;
+	padding: 5px;
+
+}
+
+.data  table tr:nth-child(odd){
+	background-color: #ccc;
+}
+
+.data  table tr td{
+	padding: 5px;
+}
